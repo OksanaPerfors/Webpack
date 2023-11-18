@@ -10,4 +10,4 @@ export function readGameSaving() {}
 
 export function writeGameSaving() {}
 
-import { Character } from "domain.js";
+import { Character } from "./domain.js";
